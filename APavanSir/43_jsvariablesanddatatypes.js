@@ -56,5 +56,5 @@
 // let status=null;
 // console.log(typeof(status)); //object
 
-let value=undefined;
-console.log(typeof(value));//undefined
+let value = undefined;
+console.log(typeof (value));//undefined
